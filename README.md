@@ -11,88 +11,97 @@
 ---
 
 ## 🌟 About Me
-Detail-oriented and motivated **Data Analyst Fresher** from Pune, Maharashtra.  
-I have hands-on experience in **Power BI, MS Excel, Python, and SQL**, with a strong ability to analyze data, build dashboards, and extract meaningful business insights.  
-I am a quick learner, self-motivated, and always eager to upskill.
+Motivated **Data Analyst Fresher** with hands-on experience in **Power BI, MS Excel, Python, and SQL**.  
+Skilled in transforming raw data into **interactive dashboards and actionable insights** to support data-driven decision making.  
+Passionate about learning new technologies and improving analytical skills.
 
-- 🎓 **BBA (Computer Applications)** – SPPU  
-- 📍 Pune, Maharashtra  
+- 🎓 **BBA (Computer Applications)** – Savitribai Phule Pune University  
+- 📍 Pune, Maharashtra, India  
 - 📧 Email: **samruddhikhedekar0@gmail.com**  
-- 📊 Aspiring **Data Analyst / Power BI Developer**
+- 🔗 LinkedIn: linkedin.com/in/samruddhi-khedekar-b121a92a9  
+- 💻 GitHub: github.com/samruddhikhedekar03  
 
 ---
 
 ## 🚀 Technical Skills
 
-### 📈 Data Analytics & Visualization
+### 📊 Data Analytics & Visualization
 - Power BI (DAX, KPI Cards, Slicers, Drill-through)
-- MS Excel (Pivot Tables, VLOOKUP, XLOOKUP, Charts)
+- MS Excel (Pivot Tables, VLOOKUP, XLOOKUP, INDEX MATCH, Charts)
 
-### 🧑‍💻 Programming & Databases
-- Python (NumPy, Pandas, Matplotlib – Basic)
+### 💻 Programming
+- Python (NumPy, Pandas, Matplotlib)
+
+### 🗄 Databases
 - MySQL
+- SQL Queries
 
 ### 🌐 Web Basics
-- HTML, CSS
+- HTML
+- CSS
 
 ### 🛠 Tools
 - Power BI Desktop
 - VS Code
-- MS Word, PowerPoint
-- Github
+- GitHub
+- MS Word & PowerPoint
 
 ---
 
 ## 📊 Data Analytics Projects
 
-### 🍕 Domino’s India – Sales & Performance Dashboard (Power BI)
-- Designed an **interactive Power BI dashboard**
-- KPIs: Total Sales, Total Profit, Average Order Value
-- Slicers for **City & Store**
-- Analysis: Veg vs Non-Veg, Monthly Trends, Top-Selling Pizzas
-- Identified **high-performing states & stores**
+### 🍕 Domino’s India – Sales & Performance Dashboard
+- Designed an **interactive Power BI dashboard** for sales analysis.
+- Used **KPI cards** to track Total Sales, Total Profit and Average Order Value.
+- Implemented **slicers for dynamic filtering**.
+- Identified **high-performing states and regions**.
 
-**Tools:** Power BI, Excel  
+**Tools Used:** Power BI, Excel
 
 ---
 
 ### 🛒 Customer Shopping Behavior Analysis
-- Cleaned and prepared raw data using **Python (Pandas)**
-- Used **SQL queries** for customer segmentation
-- Built an interactive **Power BI dashboard**
-- Analyzed purchasing patterns and trends
+- Cleaned raw transactional data using **Python (Pandas)**.
+- Used **SQL queries** to analyze customer segments and purchasing behavior.
+- Created **Power BI dashboards** to visualize trends and insights.
 
-**Tools:** Python | SQL | Power BI  
+**Tools Used:** Python | SQL | Power BI
 
 ---
 
-## 💼 Professional Experience
+## 💼 Internship Experience
 
-### 🏢 Sales Support (Intern / Trainee)  
-**Tailwind Impex Pvt. Ltd.** | June 2024 – July 2025  
-- Maintained and organized sales records  
-- Supported documentation & reporting activities  
-- Gained exposure to business data handling  
+### 🏢 Python Developer Intern  
+**Kiran Academy, Pune**  
+📅 July 2025 – December 2025
+
+- Gained hands-on experience in **Python programming and data handling**.
+- Developed scripts for **data processing and reporting automation**.
+- Worked with **SQL databases for data retrieval and storage**.
+- Practiced writing **clean and efficient Python code**.
 
 ---
 
 ## 🎓 Education
-- **BBA (Computer Applications)** – Padmashree Manibhai Desai College, Pune (2025) – 62%  
-- **HSC** – Padmashree Manibhai Desai Junior College – 57%  
-- **SSC** – Mahatma Gandhi Maha Vidyalaya School – 76.80%  
+**BBA (Computer Applications)**  
+Savitribai Phule Pune University  
+📅 2022 – 2025  
+📊 CGPA: **6.08**
 
 ---
 
 ## 📜 Certifications
-- Power BI Crash Course – Power BI (2025)  
-- MS Excel – Introduction to Excel (2025)  
-- Python Developer – Kiran Academy, Hadapsar  
+- SQL Certification – Skill Course  
+- Power BI Data Visualization – Power BI Crash Course  
+- Advanced Excel & AI Automation – MS Excel Certification  
+- Python Developer Training – Kiran Academy  
 - Web Development Certification  
-- JavaScript for Beginners – Simplilea
 
 ---
 
+## 🏆 Achievements
+🏐 **District-Level Throwball – Second Place**
 
+---
 
-
-
+⭐ *Always eager to learn, explore data, and build impactful dashboards.*
